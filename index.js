@@ -1,8 +1,8 @@
 let z = 2;
 let r = 5;
-console.log("Hello worlds world");
+let g = "Pakistan";
 const abc = "izhar ul islam";
 const x = "Hasher bhai";
-const y = "sdfksdi";
+let h = 10;
 console.log("Pakistan");
 console.log("Islamabad");
