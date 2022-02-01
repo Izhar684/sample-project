@@ -1,6 +1,6 @@
 let z = 2;
 let r = 5;
-console.log("Hello world");
+console.log("Hello worlds world");
 const abc = "izhar ul islam";
 const x = "Hasher bhai";
 const y = "sdfksdi";
