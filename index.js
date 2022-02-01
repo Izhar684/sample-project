@@ -6,3 +6,4 @@ const x = "Hassdher bhai";
 let h = 10;
 console.log("Pakistan");
 console.log("Islamabad");
+let dkf = "IIIYOI";
